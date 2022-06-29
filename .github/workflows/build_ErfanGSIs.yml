@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/20.4.27/miui_MIMIX3_20.4.27_8f7879221b_10.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://9igcgnqfm8854esqqe09ifqer7f35ip26bc1vr7hqc8ha4vackivv2a0.qc.x.bsgslb.cn:10443/xdispatch77277c87d35b4c16/bigota.d.miui.com/21.11.24/miui_CEPHEUS_21.11.24_d1e07cc091_11.0.zip?bsreqid=2f5b657ac652842e8cfbaf59e4d63394
+  ROM_NAME: MIUI12.5dev
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
